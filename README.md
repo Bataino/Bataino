@@ -78,7 +78,7 @@
 <p align="center">
 
 <img alt="Skish" height="100" src="https://raw.githubusercontent.com/Bataino/Bataino/main/white.png" />
-<img alt="LookOut" height="60" src="https://raw.githubusercontent.com/Bataino/Bataino/logo.png" />
+<img alt="LookOut" height="60" src="https://github.com/Bataino/Bataino/blob/main/logo.png?raw=true" />
 <img alt="CoveItWorld" height="60" src="https://coveitworld.com/assets/images/logo5.png" />
 <img alt="TechieHealth Pharmacy" height="100" src="https://raw.githubusercontent.com/Bataino/Bataino/main/rect1001.png" />
 <img alt="Techlava" height="100" src="https://raw.githubusercontent.com/Bataino/Bataino/main/logowhite.png" />
