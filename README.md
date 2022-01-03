@@ -1,4 +1,4 @@
-<p align="center"><kbd><img height="150" width="150" src="https://raw.githubusercontent.com/Bataino/Bataino/main/placeholder.jpg" style="border-radius: 50%; overflow: hidden; border: 1px solid black;" /></kbd></p>
+<p align="center"><kbd><img height="150" width="150" src="https://avatars.githubusercontent.com/u/66479955?v=4" style="border-radius: 50%; overflow: hidden; border: 1px solid black;" /></kbd></p>
 <h3 align="center">Jolaosho AbdulBateen (Bataino)</h3>
 <p align="center">5+ years. | Full Stack | Engineer | Problem Solver | Critical Thinker<br/>
 <!-- Website: https://<br/> -->
@@ -14,7 +14,6 @@
 <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
 <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
 <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-<img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
 
 </p>
 
@@ -26,7 +25,6 @@
 <img alt="Laravel" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
 <img alt="Material UI" src="https://img.shields.io/badge/materialui-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white" />
 <img alt="NPM" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" />
-<img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white" />
 <img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />
 <img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
  <br/>
