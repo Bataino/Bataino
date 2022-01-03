@@ -1,7 +1,7 @@
 <p align="center"><kbd><img height="150" width="150" src="https://raw.githubusercontent.com/matnex-mix/matnex-mix/main/placeholder.jpg" style="border-radius: 50%; overflow: hidden; border: 1px solid black;" /></kbd></p>
-<h3 align="center">Jolaosho Abdulmateen (Matnex Mix)</h3>
-<p align="center">8+ years. | Tech Consultant | Engineer | Enterprise Developer | Critical Thinker<br/>
-Website: https://experienceerrors.com<br/>
+<h3 align="center">Jolaosho AbdulBateen (Bataino)</h3>
+<p align="center">5+ years. | Full Stack | Engineer | Problem Solver | Critical Thinker<br/>
+Website: https://<br/>
  <a href="https://github.com/matnex-mix/matnex-mix/blob/main/impressive-things.md">Things I did that impressed me</a></p>
 
 <h3 align="center">Programming Languages</h3>
@@ -63,7 +63,7 @@ Website: https://experienceerrors.com<br/>
 <h3 align="center">Cloud Services</h3>
 <p align="center">
 
-<img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<!-- <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" /> -->
 <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" />
 <img alt="DigitalOcean" src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white" />
 <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" />
@@ -77,7 +77,7 @@ Website: https://experienceerrors.com<br/>
 <p align="center">
 
 <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
-<img alt="Jupyter Notebook" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" />
+<!-- <img alt="Jupyter Notebook" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" /> -->
 <img alt="NetBeans IDE" src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" />
 <img alt="PyCharm" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" />
 <img alt="Sublime Text" src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important" />
@@ -89,15 +89,14 @@ Website: https://experienceerrors.com<br/>
 <h3 align="center">Worked For</h3>
 <p align="center">
 
-<img alt="Numbersng" height="60" src="https://raw.githubusercontent.com/matnex-mix/matnex-mix/main/Logo.jpg" />
-<img alt="PushEat" height="60" src="https://raw.githubusercontent.com/matnex-mix/matnex-mix/main/PiushEat@300x.png" />
-<img alt="AhmedTech" height="60" src="https://raw.githubusercontent.com/matnex-mix/matnex-mix/main/ahmedtech.jpg" />
+<img alt="Skish" height="60" src="https://raw.githubusercontent.com/Bataino/Bataino/main/Skish.png" />
+<img alt="LookOut" height="60" src="https://raw.githubusercontent.com/matnex-mix/matnex-mix/main/Lookout.png" />
 <img alt="Altechtic Solutions" height="60" src="https://raw.githubusercontent.com/matnex-mix/matnex-mix/main/altechtic.webp" />
-<img alt="Africatedpreneurs" height="60" src="https://raw.githubusercontent.com/matnex-mix/matnex-mix/main/favicon.png" />
+<img alt="CoveItWorld" height="60" src="https://raw.githubusercontent.com/Bataino/Bataino/main/Coveitworld.png" />
 <img alt="TechieHealth Pharmacy" height="60" src="https://raw.githubusercontent.com/matnex-mix/matnex-mix/main/logo.png" />
-<img alt="Techlava" height="60" src="https://raw.githubusercontent.com/matnex-mix/matnex-mix/main/techlava-full.png" />
+<img alt="Techlava" height="60" src="https://raw.githubusercontent.com/Bataino/Bataino/main/techlava-full.png" />
 <img alt="Voxforem Technologies" height="60" src="https://raw.githubusercontent.com/matnex-mix/matnex-mix/main/voxforem.png" />
-<img alt="Petabyte Technologies" height="60" src="https://raw.githubusercontent.com/matnex-mix/matnex-mix/main/petalogo.jpg" />
+<img alt="BIZZONIT Services" height="60" src="https://raw.githubusercontent.com/matnex-mix/matnex-mix/main/Bizzonit.jpg" />
  
 </p>
 
