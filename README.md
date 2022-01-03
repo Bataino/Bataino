@@ -79,13 +79,13 @@
 <h3 align="center">Worked For</h3>
 <p align="center">
 
-<img alt="Skish" height="60" src="https://raw.githubusercontent.com/Bataino/Bataino/main/white.png" />
-<img alt="LookOut" height="60" src="https://raw.githubusercontent.com/matnex-mix/matnex-mix/main/Lookout.png" />
+<img alt="Skish" height="100" src="https://raw.githubusercontent.com/Bataino/Bataino/main/white.png" />
+<img alt="LookOut" height="60" src="https://raw.githubusercontent.com/matnex-mix/Bataino/Bataino/logo.png" />
 <img alt="CoveItWorld" height="60" src="https://coveitworld.com/assets/images/logo5.png" />
-<img alt="TechieHealth Pharmacy" height="60" src="https://raw.githubusercontent.com/matnex-mix/matnex-mix/main/logo.png" />
-<img alt="Techlava" height="60" src="https://raw.githubusercontent.com/Bataino/Bataino/main/logowhite.png" />
+<img alt="TechieHealth Pharmacy" height="100" src="https://raw.githubusercontent.com/Bataino/Bataino/main/rect1001.png" />
+<img alt="Techlava" height="100" src="https://raw.githubusercontent.com/Bataino/Bataino/main/logowhite.png" />
 <img alt="Voxforem Technologies" height="60" src="https://raw.githubusercontent.com/matnex-mix/matnex-mix/main/voxforem.png" />
-<img alt="Xetnica" height="60" src="https://th.bing.com/th/id/OIP.Cqvdr3AK4ObADmBB1RUj_QHaHa?pid=ImgDet&rs=1" />
+<img alt="Xetnica" height="100" src="https://th.bing.com/th/id/OIP.Cqvdr3AK4ObADmBB1RUj_QHaHa?pid=ImgDet&rs=1" />
  
 </p>
 
