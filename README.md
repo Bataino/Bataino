@@ -92,8 +92,8 @@
 <a href="https://facebook.com/abdulmateen.jolaosho/"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/bataino-ronaldo"/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://t.me/bataino"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-<a href="https://twitter.com/bataino8"><img alt="Twitter" src="https://img.shields.io/badge/@techlavang-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
+<a href="https://twitter.com/bataino8"><img alt="Twitter" src="https://img.shields.io/badge/@bataino8-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
 <a href="https://wa.me/+2349066299190"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
 
-<p align="center">&copy; Jolaosho Abdulmateen 2021.</p>
+<p align="center">&copy; Jolaosho AbdulBateen 2022.</p>
