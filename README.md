@@ -84,7 +84,7 @@
 <img alt="Techlava" height="100" src="https://raw.githubusercontent.com/Bataino/Bataino/main/logowhite.png" />
 <img alt="Voxforem Technologies" height="60" src="https://raw.githubusercontent.com/matnex-mix/matnex-mix/main/voxforem.png" />
 <img alt="Xetnica" height="100" src="https://th.bing.com/th/id/OIP.Cqvdr3AK4ObADmBB1RUj_QHaHa?pid=ImgDet&rs=1" />
- 
+<img alt="BIZZ ON IT Services" height="100" src=" https://hrm.bizzonit.com/uploads/company/16c2e8066838c5ec02e8441cb1285280.png" />
 </p>
 
 <h3 align="center">Contact</h3>
