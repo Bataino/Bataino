@@ -1,6 +1,6 @@
 <p align="center"><kbd><img height="150" width="150" src="https://avatars.githubusercontent.com/u/66479955?v=4" style="border-radius: 50%; overflow: hidden; border: 1px solid black;" /></kbd></p>
 <h3 align="center">Jolaosho AbdulBateen (Bataino)</h3>
-<p align="center">3+ years. | Full Stack | Engineer | Problem Solver | Critical Thinker<br/>
+<p align="center">Full Stack Engineer <br/>
 <!-- Website: https://<br/> -->
 <!--  <a href="https://github.com/matnex-mix/matnex-mix/blob/main/impressive-things.md">Things I did that impressed me</a></p> -->
 
