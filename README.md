@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Abdulbateen Joloasho</h1>
-<h3 align="center">Versatile Software Engineer | 4 years experience in JavaScript, PHP | Co-founder| 3 years working with Vue and Laravel</h3>
+<h3 align="center">Versatile Software Engineer | 5 years experience in JavaScript, PHP | Co-founder| 4 years working with Vue and Laravel</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bataino" alt="bataino" /></a> </p>
 
-- 🔭 I’m currently working on [RentOut](https://rentout.app)
+- 🔭 I’m currently building [Techlava](https://techlava.ng)
 
-- 🌱 I’m currently learning **WebAssemby, ReactNative ,DevOps, Machine Learning**
+- 🌱 I’m currently learning **WebAssemby**
 
 - 💬 Ask me about **Frontend, Backend, Ionic and StartUps**
 
 - 📫 How to reach me **abdulbateenjoloasho@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/bataino-ronaldo](www.linkedin.com/in/bataino-ronaldo)
+- 📄 Know about my experiences [www.linkedin.com/in/bataino](www.linkedin.com/in/bataino)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
