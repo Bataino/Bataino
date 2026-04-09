@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdulbateen Joloasho</h1>
-<h3 align="center">Versatile Software Engineer | 6 years experience in JavaScript, PHP | Co-founder| 5 years working with Vue and Laravel</h3>
+<h3 align="center">Versatile Software Engineer | 7 years experience in JavaScript, PHP | Co-founder| 6 years working with Vue and Laravel</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bataino" alt="bataino" /></a> </p>
 
